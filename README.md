@@ -517,8 +517,8 @@ pip install -r requirements.txt
 **Data Analyst | Business Intelligence | AI & Healthcare Analytics**
 
 - 📧 Email: nusratdataanalyst@gmail.com
-- 💼 LinkedIn: *Add Your LinkedIn URL*
-- 💻 GitHub: *Add Your GitHub URL*
+- 💼 LinkedIn: *https://www.linkedin.com/in/nusratgulbarga/*
+- 💻 GitHub: *https://github.com/NusratGulbarga*
 
 ---
 
