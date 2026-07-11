@@ -401,6 +401,18 @@ Displays:
 
 ---
 
+# **SnapShots**
+
+![Dashboard](Dashboard.png)
+![Dashboard](patient-count-by-age.png)
+![Dashboard](snapshot-of-health.png)
+![Dashboard](operations_dashboard.png)
+![Dashboard](patients_dashboard.png)
+![Dashboard](executive_dashboard.png)
+![Dashboard](financial_dashboard.png)
+
+---
+
 # 📈 Business Insights
 
 Examples
